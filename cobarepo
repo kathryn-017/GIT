@@ -3,4 +3,5 @@ using namespace std;
 
 int main(){
 	cout << "Halo, Git" << endl;
+	cout << "Baris baru" << endl;
 }
